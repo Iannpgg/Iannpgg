@@ -18,5 +18,7 @@ I am passionate about:
 * **Hands-On CAD & Prototyping:** Bringing ideas to life through 3D modeling, technical drawings, and physical builds.
 
 ---
+## Interactive Engineering Portfolio
+Explore my interactive 3D CAD models, engineering case studies, component breakdowns, and full technical documentation:
 
-🚀 **Check out my full interactive CAD portfolio here:** [iannpgg.github.io](https://iannpgg.github.io)
+**[Visit my Live Engineering Portfolio Hub ➔](https://iannpgg.github.io)**
