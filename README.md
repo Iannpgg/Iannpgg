@@ -1,5 +1,9 @@
 # Hi there, I'm Iann Phouthongseng!
 
+<p align="center">
+  <img src="profile.jpg" alt="Iann Phouthongseng" width="160" style="border-radius: 50%;">
+</p>
+
 > **1st-Generation Mechanical Engineering Senior | 4th Year**  
 > *Driven by design, processes, reverse-engineering, and continuous improvement.*
 
