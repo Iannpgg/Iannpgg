@@ -15,4 +15,4 @@ I am passionate about:
 
 ---
 
-🔗 **Interactive Portfolio:** *(Link coming soon!)*
+🚀 **Check out my full interactive CAD portfolio here:** [iannpgg.github.io](https://iannpgg.github.io)
